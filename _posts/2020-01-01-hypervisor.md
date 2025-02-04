@@ -1,7 +1,7 @@
 ---
 word: hypervisor
-meaning: 虚拟机器监视器（VMM）
+meaning: trình giám sát máy ảo (VMM)
 correct: /ˌhaipəˈvaizə/
 note:
-category: 名词
+category: danh từ
 ---

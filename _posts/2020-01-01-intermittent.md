@@ -1,7 +1,7 @@
 ---
 word: intermittent
-meaning: 间歇的
+meaning: ngắt quãng
 correct: /ˌɪntərˈmɪtənt/
 note:
-category: 形容词
+category: tính từ
 ---

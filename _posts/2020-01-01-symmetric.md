@@ -1,7 +1,7 @@
 ---
 word: symmetric
-meaning: 对称的
+meaning: đối xứng
 correct: /sɪ'mɛtrɪk/
 note:
-category: 形容词
+category: tính từ
 ---

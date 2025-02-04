@@ -1,7 +1,7 @@
 ---
 word: hypothesis
-meaning: 假设
+meaning: giả thuyết
 correct: /haɪˈpɑːθəsɪs/
 note:
-category: 名词
+category: danh từ
 ---

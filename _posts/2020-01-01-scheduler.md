@@ -1,7 +1,7 @@
 ---
 word: scheduler
-meaning: 时间调度程序
+meaning: bộ lập lịch
 correct: /ˈskedʒuːlər/
 note:
-category: 名词
+category: danh từ
 ---

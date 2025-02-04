@@ -1,7 +1,7 @@
 ---
 word: confidentiality
-meaning: 保密性
+meaning: tính bảo mật
 correct: /ˌkɑːnfɪˌdenʃiˈæləti/
 note:
-category: 名词
+category: danh từ
 ---

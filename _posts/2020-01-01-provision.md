@@ -1,7 +1,7 @@
 ---
 word: provision
-meaning: 规定；预备；准备
+meaning: cung cấp, dự phòng
 correct: /prəˈvɪʒn/
-note: 例如对UFS设备进行provision，分区、划分LUN等操作
-category: 名词
+note: ví dụ như cung cấp thiết bị UFS, phân vùng, phân chia LUN
+category: danh từ
 ---

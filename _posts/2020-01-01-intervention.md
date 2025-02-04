@@ -1,7 +1,7 @@
 ---
 word: intervention
-meaning: 介入、干涉
+meaning: can thiệp
 correct: /ˌɪntərˈvenʃn/
 note:
-category: 名词
+category: danh từ
 ---

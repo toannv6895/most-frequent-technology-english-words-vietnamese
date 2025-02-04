@@ -1,7 +1,7 @@
 ---
 word: threshold
-meaning: 阈值
+meaning: ngưỡng
 correct: /ˈθreʃhoʊld/
 note:
-category: 名词
+category: danh từ
 ---

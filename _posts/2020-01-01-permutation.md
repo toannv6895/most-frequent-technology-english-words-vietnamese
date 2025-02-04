@@ -1,7 +1,7 @@
 ---
 word: permutation
-meaning: 排序
+meaning: hoán vị
 correct: /ˌpɜːrmjuˈteɪʃn/
 note:
-category: 名词
+category: danh từ
 ---

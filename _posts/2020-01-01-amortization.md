@@ -1,7 +1,7 @@
 ---
-word: amortization
-meaning: 摊销
-correct: /ˌæmərtəˈzeɪʃn/
-note:
-category: 名词
+word: amortization  
+meaning: sự khấu hao  
+correct: /ˌæmərtəˈzeɪʃn/  
+note:  
+category: danh từ  
 ---

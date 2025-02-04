@@ -1,7 +1,7 @@
 ---
 word: mechanism
-meaning: 机制，原理
+meaning: cơ chế, nguyên lý
 correct: /ˈmekənɪzəm/
 note:
-category: 名词
+category: danh từ
 ---

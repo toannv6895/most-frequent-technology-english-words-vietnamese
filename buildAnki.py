@@ -37,7 +37,7 @@ os.chdir(MEDIA_PATH)
 deckId = 2059400110
 my_deck = genanki.Deck(
   deckId,
-  '程序员英语词汇宝典')
+'Programmer English Vocabulary Collection')
 
 
 style = """
@@ -105,7 +105,7 @@ my_model = genanki.Model(
 <div id=a1>{{MyMedia}}</div>
 
 
-<!-- anki 英文单词工具条：支持选中或当前单词即时欧路词典查询/有道朗读/有道例句 -->
+<!-- Anki English Word Toolbar: supports instant Eudic dictionary lookup/Youdao pronunciation/Youdao example sentences -->
 <span id=toolbar1>
 <div class="eudic">
 <a href="javascript:go4eudic()">&#128269</a>
@@ -219,34 +219,61 @@ my_package = genanki.Package(my_deck)
 
 testOnly = False if len(sys.argv) < 2 else ("testOnly" == sys.argv[1]);
 for filename in tqdm(os.listdir(PATH)):
-  word = filename.split('-')[-1][:-3]  # eg 2020-01-01-agile.md
-  filePath = os.path.join(PATH, filename)
-  content = open(filePath, encoding='utf-8').read()
-  #print(content)
-  fyWord = doFy(word);
-  fyWord = html.escape(fyWord);
-  fyWord = fyWord.replace('\n','<br/>')
-  #print(fyWord)
-  #if len(fyWord) > 0:
-  #  content=("%s\nfy:\n%s"%(content.strip(),fyWord.strip()))
-  #  
-  content = re.sub("(?m)^-+", '', content).strip();
-  #print(content)
-  content = html.escape(content);
-  content = content.replace('\n','<br/>')
-  voicePath = '{}.mp3'.format(word)
-  r = requests.get(voice_url.format(word=word))
-  f = open(voicePath,'wb')
-  f.write(r.content)
-  f.close();
-  guid = str(uuid.uuid3(uuid.NAMESPACE_OID, str(deckId) + word));
-  my_note = genanki.Note(
-    model=my_model,
-    fields=[word, content, '[sound:{}]'.format(voicePath), fyWord], guid=guid)
-  my_deck.add_note(my_note)
-  my_package.media_files.append(voicePath)
-  if testOnly:
-     break
+  try:
+    word = filename.split('-')[-1][:-3]  # eg 2020-01-01-agile.md
+    print(f"Processing word: {word}")  # Console log current word
+    
+    filePath = os.path.join(PATH, filename)
+    try:
+      content = open(filePath, encoding='utf-8').read()
+    except Exception as e:
+      print(f"Error reading file {filePath}: {str(e)}")
+      continue
+    
+    try:
+      fyWord = doFy(word)
+      fyWord = html.escape(fyWord)
+      fyWord = fyWord.replace('\n','<br/>')
+    except Exception as e:
+      print(f"Error getting translation for {word}: {str(e)}")
+      fyWord = ""
+      
+    content = re.sub("(?m)^-+", '', content).strip()
+    content = html.escape(content)
+    content = content.replace('\n','<br/>')
+    
+    voicePath = '{}.mp3'.format(word)
+    # Check if MP3 file already exists
+    if not os.path.exists(voicePath):
+      try:
+        print(f"Downloading audio for: {word}")
+        r = requests.get(voice_url.format(word=word))
+        with open(voicePath,'wb') as f:
+          f.write(r.content)
+      except Exception as e:
+        print(f"Error downloading audio for {word}: {str(e)}")
+        continue
+    else:
+      print(f"Audio file already exists for: {word}")
+      
+    try:
+      guid = str(uuid.uuid3(uuid.NAMESPACE_OID, str(deckId) + word))
+      my_note = genanki.Note(
+        model=my_model,
+        fields=[word, content, '[sound:{}]'.format(voicePath), fyWord],
+        guid=guid)
+      my_deck.add_note(my_note)
+      my_package.media_files.append(voicePath)
+    except Exception as e:
+      print(f"Error creating note for {word}: {str(e)}")
+      continue
+      
+    if testOnly:
+      break
+      
+  except Exception as e:
+    print(f"Error processing {filename}: {str(e)}")
+    continue
 
 my_package.write_to_file('most-frequent-technology-english-words.apkg')
 

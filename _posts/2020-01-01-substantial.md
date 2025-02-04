@@ -1,7 +1,7 @@
 ---
 word: substantial
-meaning: 实质的
+meaning: đáng kể, quan trọng
 correct: /səbˈstænʃl/
 note:
-category: 形容词
+category: tính từ
 ---

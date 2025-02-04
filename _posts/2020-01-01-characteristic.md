@@ -1,7 +1,7 @@
 ---
 word: characteristic
-meaning: 特征，特性
+meaning: đặc điểm, đặc tính
 correct: /ˌkærəktəˈrɪstɪk/
 note:
-category: 名词
+category: danh từ
 ---

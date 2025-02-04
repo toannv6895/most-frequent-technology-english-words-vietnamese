@@ -1,7 +1,7 @@
 ---
 word: intuitive
-meaning: 直觉的
+meaning: trực quan
 correct: /ɪnˈtuːɪtɪv/
 note:
-category: 形容词
+category: tính từ
 ---

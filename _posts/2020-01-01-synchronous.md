@@ -1,7 +1,7 @@
 ---
 word: synchronous
-meaning: 同步的
+meaning: đồng bộ
 correct: /ˈsɪŋkrənəs/
 note:
-category: 形容词
+category: tính từ
 ---

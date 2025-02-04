@@ -1,7 +1,7 @@
 ---
 word: bottleneck
-meaning: 瓶颈
+meaning: nút thắt cổ chai
 correct: /ˈbɑːtlnek/
 note:
-category: 名词
+category: danh từ
 ---

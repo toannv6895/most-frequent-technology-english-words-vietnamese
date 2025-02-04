@@ -1,7 +1,7 @@
 ---
 word: encapsulate
-meaning: 压缩、封装
+meaning: đóng gói, bao bọc
 correct: /ɪnˈkæpsjuleɪt/
 note:
-category: 动词
+category: động từ
 ---

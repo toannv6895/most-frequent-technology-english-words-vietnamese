@@ -1,7 +1,7 @@
 ---
 word: intrusive
-meaning: 侵入式的
+meaning: xâm nhập, can thiệp
 correct: /ɪnˈtruːsɪv/
 note:
-category: 形容词
+category: tính từ
 ---

@@ -1,7 +1,7 @@
 ---
 word: indecisive
-meaning: 犹豫不决的
+meaning: thiếu quyết đoán
 correct: /ˌindi'saisiv/
 note:
-category: 形容词
+category: tính từ
 ---

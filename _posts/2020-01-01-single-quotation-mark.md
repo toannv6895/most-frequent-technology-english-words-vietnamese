@@ -1,7 +1,7 @@
 ---
 word: single quotation mark
-meaning: 单引号
+meaning: dấu nháy đơn
 correct: /null/
 note: "'"
-category: 符号
+category: ký hiệu
 ---

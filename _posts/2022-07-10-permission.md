@@ -1,7 +1,7 @@
 ---
 word: permission
-meaning: 权限
+meaning: quyền hạn
 correct: /pəˈmɪʃn/
 note:
-category: 名词
+category: danh từ
 ---

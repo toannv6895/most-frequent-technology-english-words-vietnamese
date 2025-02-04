@@ -1,7 +1,7 @@
 ---
 word: square brackets
-meaning: 方括号
+meaning: dấu ngoặc vuông
 correct: /null/
 note: "[ ]"
-category: 符号
+category: ký hiệu
 ---

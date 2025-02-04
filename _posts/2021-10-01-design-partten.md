@@ -1,7 +1,7 @@
 ---
 word: design patterns
-meaning: 设计模式
+meaning: mẫu thiết kế
 correct: /null/
-note: 解决代码问题的套路方法，例如《设计模式：可复用面向对象软件的基础》（Design Patterns: Elements of Reusable Object-Oriented Software）
-category: 词组
+note: các phương pháp mẫu để giải quyết vấn đề code, ví dụ như cuốn "Design Patterns: Elements of Reusable Object-Oriented Software"
+category: cụm từ
 ---

@@ -1,7 +1,7 @@
 ---
 word: left arrow
-meaning: 向左箭头
+meaning: mũi tên trái
 correct: /null/
 note: "←"
-category: 符号
+category: ký hiệu
 ---

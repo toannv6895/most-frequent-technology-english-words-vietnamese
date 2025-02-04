@@ -1,7 +1,7 @@
 ---
 word: exclamation mark
-meaning: 惊叹号，感叹号
+meaning: dấu chấm than
 correct: /ˌekskləˈmeɪʃn/
 note: "!"
-category: 符号
+category: ký hiệu
 ---

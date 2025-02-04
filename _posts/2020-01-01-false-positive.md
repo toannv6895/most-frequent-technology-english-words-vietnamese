@@ -1,7 +1,7 @@
 ---
 word: false positive
-meaning: 假阳性
+meaning: dương tính giả
 correct: /null/
-note: 当你真的没有的时候，别人却说你有。
-category: 词组
+note: khi thực tế bạn không có nhưng người khác lại nói bạn có
+category: cụm từ
 ---

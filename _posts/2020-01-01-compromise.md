@@ -1,7 +1,7 @@
 ---
 word: compromise
-meaning: 泄漏，破解
+meaning: bị xâm nhập, bị phá vỡ
 correct: /ˈkɑːmprəmaɪz/
 note:
-category: 名词
+category: danh từ
 ---

@@ -1,7 +1,7 @@
 ---
 word: encryption
-meaning: 加密
+meaning: mã hóa
 correct: /ɪnˈkrɪpʃn/
 note:
-category: 名词
+category: danh từ
 ---

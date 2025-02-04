@@ -1,7 +1,7 @@
 ---
 word: furthermore
-meaning: 此外，而且
+meaning: hơn nữa, ngoài ra
 correct: /ˌfɜːrðərˈmɔːr/
 note:
-category: 副词
+category: trạng từ
 ---

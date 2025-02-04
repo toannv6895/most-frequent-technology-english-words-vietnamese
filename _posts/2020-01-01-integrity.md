@@ -1,7 +1,7 @@
 ---
 word: integrity
-meaning: 完整性
+meaning: tính toàn vẹn
 correct: /ɪnˈteɡrəti/
 note:
-category: 名词
+category: danh từ
 ---

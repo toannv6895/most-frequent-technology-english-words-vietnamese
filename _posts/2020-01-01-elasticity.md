@@ -1,7 +1,7 @@
 ---
 word: elasticity
-meaning: 弹性，灵活性
+meaning: tính đàn hồi, tính linh hoạt
 correct: /ˌiːlæˈstɪsəti/
 note:
-category: 名词
+category: danh từ
 ---

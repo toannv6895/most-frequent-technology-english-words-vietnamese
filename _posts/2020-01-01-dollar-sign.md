@@ -1,7 +1,7 @@
 ---
 word: dollar sign
-meaning: 美元符号
+meaning: ký hiệu đô la
 correct: /null/
 note: "$"
-category: 符号
+category: ký hiệu
 ---

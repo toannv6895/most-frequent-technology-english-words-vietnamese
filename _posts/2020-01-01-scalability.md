@@ -1,7 +1,7 @@
 ---
 word: scalability
-meaning: 可扩展性
+meaning: khả năng mở rộng
 correct: /ˌskeɪləˈbɪləti/
 note:
-category: 名词
+category: danh từ
 ---

@@ -1,7 +1,7 @@
 ---
 word: backslash
-meaning: 反斜线
+meaning: dấu gạch chéo ngược
 correct: /ˈbækslæʃ/
 note: "\\"
-category: 符号
+category: ký hiệu
 ---

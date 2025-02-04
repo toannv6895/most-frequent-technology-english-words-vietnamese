@@ -1,7 +1,7 @@
 ---
 word: architecture
-meaning: 架构
+meaning: kiến trúc
 correct: /ˈɑːrkɪtektʃər/
 note:
-category: 名词
+category: danh từ
 ---

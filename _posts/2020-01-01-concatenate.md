@@ -1,7 +1,7 @@
 ---
 word: concatenate
-meaning: 连接
+meaning: nối kết
 correct: /kɑnˈkætəˌnet/
 note:
-category: 动词
+category: động từ
 ---

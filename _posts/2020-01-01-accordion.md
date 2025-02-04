@@ -1,7 +1,7 @@
 ---
 word: accordion
-meaning: 可折叠的，褶叠的
+meaning: có thể gập lại được, có nếp gấp
 correct: /əˈkɔːrdiən/
-note: 设计中可以通过点击按钮将内容折叠或展开
-category: 形容词
+note: trong thiết kế có thể thu gọn hoặc mở rộng nội dung bằng cách nhấp vào nút
+category: tính từ
 ---

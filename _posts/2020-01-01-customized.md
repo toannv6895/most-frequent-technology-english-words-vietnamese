@@ -1,7 +1,7 @@
 ---
 word: customized
-meaning: 定制的，个性化的
+meaning: tùy chỉnh, cá nhân hóa
 correct: /ˈkʌstəmaɪzd/
 note:
-category: 形容词
+category: tính từ
 ---

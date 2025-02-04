@@ -1,7 +1,7 @@
 ---
 word: immutable
-meaning: 不变的
+meaning: không thay đổi
 correct: /ɪˈmjuːtəbl/
 note:
-category: 形容词
+category: tính từ
 ---

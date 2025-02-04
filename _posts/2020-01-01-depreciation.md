@@ -1,7 +1,7 @@
 ---
 word: depreciation
-meaning: 折旧，贬值
+meaning: khấu hao, giảm giá
 correct: /dɪˌpriːʃiˈeɪʃn/
 note:
-category: 名词
+category: danh từ
 ---

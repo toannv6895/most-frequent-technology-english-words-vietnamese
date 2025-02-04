@@ -1,7 +1,7 @@
 ---
 word: evaluation
-meaning: 评价，计算
+meaning: đánh giá, tính toán
 correct: /ɪˌvæljuˈeɪʃn/
 note:
-category: 名词
+category: danh từ
 ---

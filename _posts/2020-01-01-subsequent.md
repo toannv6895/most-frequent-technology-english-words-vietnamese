@@ -1,7 +1,7 @@
 ---
 word: subsequent
-meaning: 随后的、之后的
+meaning: tiếp theo, sau đó
 correct: /ˈsʌbsɪkwənt/
 note:
-category: 形容词
+category: tính từ
 ---

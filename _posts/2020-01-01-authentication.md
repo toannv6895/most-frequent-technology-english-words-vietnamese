@@ -1,7 +1,7 @@
 ---
 word: authentication
-meaning: 身份验证
+meaning: xác thực
 correct: /ɔːˌθentɪˈkeɪʃn/
 note:
-category: 名词
+category: danh từ
 ---

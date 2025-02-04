@@ -1,7 +1,7 @@
 ---
 word: catastrophic failover
-meaning: 灾难性故障转移
+meaning: chuyển đổi dự phòng thảm họa
 correct: /null/
 note:
-category: 词组
+category: cụm từ
 ---

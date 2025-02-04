@@ -1,7 +1,7 @@
 ---
 word: inception
-meaning: 起始，创立
+meaning: khởi đầu, sự thành lập
 correct: /ɪnˈsepʃn/
 note:
-category: 名词
+category: danh từ
 ---

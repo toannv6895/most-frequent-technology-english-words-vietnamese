@@ -1,7 +1,7 @@
 ---
 word: tolerance
-meaning: 容忍
+meaning: khả năng chịu đựng
 correct: /ˈtɑːlərəns/
 note:
-category: 名词
+category: danh từ
 ---

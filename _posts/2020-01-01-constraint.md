@@ -1,7 +1,7 @@
 ---
 word: constraint
-meaning: 约束
+meaning: ràng buộc
 correct: /kənˈstreɪnt/
 note:
-category: 名词
+category: danh từ
 ---

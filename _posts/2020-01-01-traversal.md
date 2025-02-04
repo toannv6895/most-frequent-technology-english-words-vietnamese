@@ -1,7 +1,7 @@
 ---
 word: traversal
-meaning: 遍历
+meaning: duyệt
 correct: /trəˈvərsəl/
 note:
-category: 名词
+category: danh từ
 ---

@@ -1,7 +1,7 @@
 ---
 word: restriction
-meaning: 限制，约束
+meaning: hạn chế, giới hạn
 correct: /ri'strikʃən/
 note:
-category: 名词
+category: danh từ
 ---

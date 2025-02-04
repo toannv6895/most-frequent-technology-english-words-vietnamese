@@ -1,7 +1,7 @@
 ---
 word: underscore
-meaning: 下划线
+meaning: dấu gạch dưới
 correct: /ˌʌndərˈskɔːr/
 note: "_"
-category: 符号
+category: ký hiệu
 ---

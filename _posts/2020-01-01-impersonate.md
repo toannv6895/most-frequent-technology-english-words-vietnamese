@@ -1,7 +1,7 @@
 ---
 word: impersonate
-meaning: 扮演，模仿
+meaning: mạo danh, giả mạo
 correct: /ɪmˈpɜːrsəneɪt/
 note:
-category: 动词
+category: động từ
 ---

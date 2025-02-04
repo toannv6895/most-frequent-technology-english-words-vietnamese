@@ -1,7 +1,7 @@
 ---
 word: on-premise
-meaning: 预置的
+meaning: tại chỗ
 correct: /ɑːnˈpremɪs/
 note:
-category: 形容词
+category: tính từ
 ---

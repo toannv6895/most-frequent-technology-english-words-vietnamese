@@ -1,7 +1,7 @@
 ---
 word: dedicated
-meaning: 专属的
+meaning: chuyên dụng
 correct: /ˈdedɪkeɪtɪd/
 note:
-category: 形容词
+category: tính từ
 ---

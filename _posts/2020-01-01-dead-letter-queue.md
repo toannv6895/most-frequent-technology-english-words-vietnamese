@@ -1,7 +1,7 @@
 ---
 word: dead letter queue
-meaning: 死信队列
+meaning: hàng đợi thư chết
 correct: /null/
-note: 在队列服务中，那些无法发送的信息将被送至死信队列
-category: 词组
+note: trong dịch vụ hàng đợi, những thông điệp không thể gửi được sẽ được chuyển đến hàng đợi thư chết
+category: cụm từ
 ---

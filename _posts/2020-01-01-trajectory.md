@@ -1,7 +1,7 @@
 ---
 word: trajectory
-meaning: 轨道，轨迹
+meaning: quỹ đạo, đường đi
 correct: /trəˈdʒektəri/
 note:
-category: 名词
+category: danh từ
 ---

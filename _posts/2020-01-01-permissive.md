@@ -1,7 +1,7 @@
 ---
 word: permissive
-meaning: 宽容的
+meaning: cho phép, dễ dãi
 correct: /pərˈmɪsɪv/
 note:
-category: 形容词
+category: tính từ
 ---

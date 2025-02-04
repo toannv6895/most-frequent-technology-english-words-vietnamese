@@ -1,7 +1,7 @@
 ---
 word: sustainable
-meaning: 可持续的
+meaning: bền vững
 correct: /səˈsteɪnəbl/
 note:
-category: 形容词
+category: tính từ
 ---

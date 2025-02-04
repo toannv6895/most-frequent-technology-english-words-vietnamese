@@ -1,7 +1,7 @@
 ---
 word: asynchronous
-meaning: 异步的
+meaning: bất đồng bộ
 correct: /eɪˈsɪŋkrənəs/
 note:
-category: 形容词
+category: tính từ
 ---

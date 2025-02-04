@@ -1,7 +1,7 @@
 ---
 word: recursion
-meaning: 递归
+meaning: đệ quy
 correct: /rɪˈkɜːrʒn/
 note:
-category: 名词
+category: danh từ
 ---

@@ -1,7 +1,7 @@
 ---
 word: evolution
-meaning: 进化、演变
+meaning: tiến hóa, phát triển
 correct: /ˌevəˈluːʃn/
 note:
-category: 名词
+category: danh từ
 ---

@@ -1,7 +1,7 @@
 ---
 word: automation
-meaning: 自动化
+meaning: tự động hóa
 correct: /ˌɔːtəˈmeɪʃn/
 note:
-category: 名词
+category: danh từ
 ---

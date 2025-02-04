@@ -1,7 +1,7 @@
 ---
 word: vice versa
-meaning: 反之亦然
+meaning: ngược lại cũng vậy
 correct: /ˌvaisi'və:sə/
 note:
-category: 词组
+category: cụm từ
 ---

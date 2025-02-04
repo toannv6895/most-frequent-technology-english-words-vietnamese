@@ -1,7 +1,7 @@
 ---
 word: utilization
-meaning: 利用，使用
+meaning: sử dụng, tận dụng
 correct: /ˌjuːtələˈzeɪʃn/
 note:
-category: 名词
+category: danh từ
 ---

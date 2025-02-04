@@ -1,7 +1,7 @@
 ---
 word: faceted search
-meaning: 分面搜索
+meaning: tìm kiếm theo khía cạnh
 correct: /null/
 note:
-category: 词组
+category: cụm từ
 ---

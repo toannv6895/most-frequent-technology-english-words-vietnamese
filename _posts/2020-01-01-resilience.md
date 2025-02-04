@@ -1,7 +1,7 @@
 ---
 word: resilience
-meaning: 回弹性
+meaning: khả năng phục hồi
 correct: /rɪˈzɪliəns/
 note:
-category: 名词
+category: danh từ
 ---

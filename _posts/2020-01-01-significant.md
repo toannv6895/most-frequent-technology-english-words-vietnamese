@@ -1,7 +1,7 @@
 ---
 word: significant
-meaning: 重大的，有意义的
+meaning: đáng kể, quan trọng
 correct: /sɪɡˈnɪfɪkənt/
 note:
-category: 形容词
+category: tính từ
 ---

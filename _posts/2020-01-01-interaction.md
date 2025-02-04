@@ -1,7 +1,7 @@
 ---
 word: interaction
-meaning: 交互、相互影响、干涉
+meaning: tương tác, ảnh hưởng qua lại
 correct: /ˌɪntərˈækʃn/
 note:
-category: 名词
+category: danh từ
 ---

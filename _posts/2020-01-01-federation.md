@@ -1,7 +1,7 @@
 ---
 word: federation
-meaning: 联合授权
+meaning: liên kết xác thực
 correct: /ˌfedəˈreɪʃn/
 note:
-category: 名词
+category: danh từ
 ---

@@ -1,7 +1,7 @@
 ---
 word: ephemeral
-meaning: 短暂性的
+meaning: tạm thời, ngắn hạn
 correct: /ɪˈfemərəl/
 note:
-category: 形容词
+category: tính từ
 ---

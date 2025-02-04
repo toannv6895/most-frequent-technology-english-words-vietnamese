@@ -1,7 +1,7 @@
 ---
 word: equivalent
-meaning: 对等的人（或事物）；
+meaning: tương đương, ngang bằng
 correct: /ɪˈkwɪvələnt/
 note:
-category: 名词
+category: danh từ
 ---

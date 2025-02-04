@@ -1,7 +1,7 @@
 ---
 word: expenditure
-meaning: 支出，经费
+meaning: chi phí, phí tổn
 correct: /ɪkˈspendɪtʃər/
 note:
-category: 名词
+category: danh từ
 ---

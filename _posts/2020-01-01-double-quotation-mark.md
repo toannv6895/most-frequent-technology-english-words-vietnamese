@@ -1,7 +1,7 @@
 ---
 word: double quotation mark
-meaning: 双引号
+meaning: dấu ngoặc kép
 correct: /null/
 note: '"'
-category: 符号
+category: ký hiệu
 ---

@@ -1,7 +1,7 @@
 ---
 word: simultaneously
-meaning: 同时地
+meaning: đồng thời
 correct: /ˌsaɪmlˈteɪniəsli/
 note:
-category: 副词
+category: trạng từ
 ---

@@ -1,7 +1,7 @@
 ---
 word: bandwidth
-meaning: 带宽，多余时间（人力）
+meaning: băng thông, thời gian rảnh (nguồn lực)
 correct: /ˈbændwɪdθ/
-note: 后者意思是咨询有没有足够的资源或时间来完成某件事情
-category: 名词
+note: nghĩa thứ hai dùng để hỏi có đủ nguồn lực hay thời gian để hoàn thành việc gì đó không
+category: danh từ
 ---

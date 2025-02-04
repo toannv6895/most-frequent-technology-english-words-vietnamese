@@ -1,7 +1,7 @@
 ---
 word: compliance
-meaning: 合规
+meaning: tuân thủ
 correct: /kəmˈplaɪəns/
 note:
-category: 名词
+category: danh từ
 ---

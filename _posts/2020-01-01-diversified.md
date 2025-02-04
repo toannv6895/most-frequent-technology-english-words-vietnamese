@@ -1,7 +1,7 @@
 ---
 word: diversified
-meaning: 多样化的
+meaning: đa dạng hóa
 correct: /daɪˈvɜrsɪfaɪd/
 note:
-category: 形容词
+category: tính từ
 ---

@@ -1,7 +1,7 @@
 ---
 word: undertake
-meaning: 承担
+meaning: đảm nhận
 correct: /ˌʌndərˈteɪk/
 note:
-category: 动词
+category: động từ
 ---

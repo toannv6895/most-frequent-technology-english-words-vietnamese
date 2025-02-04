@@ -1,7 +1,7 @@
 ---
 word: privilege
-meaning: 特权，优待
+meaning: đặc quyền
 correct: /ˈprɪvəlɪdʒ/
 note:
-category: 名词
+category: danh từ
 ---

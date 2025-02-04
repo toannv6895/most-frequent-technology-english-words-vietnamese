@@ -1,7 +1,7 @@
 ---
 word: semicolon
-meaning: 分号
+meaning: dấu chấm phẩy
 correct: /ˈsemikoʊlən/
 note: ";"
-category: 符号
+category: ký hiệu
 ---

@@ -1,7 +1,7 @@
 ---
 word: concurrent
-meaning: 并发的，同时发生的
+meaning: đồng thời, xảy ra cùng lúc
 correct: /kənˈkɜːrənt/
 note:
-category: 形容词
+category: tính từ
 ---

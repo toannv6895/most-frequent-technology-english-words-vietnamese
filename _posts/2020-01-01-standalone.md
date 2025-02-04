@@ -1,7 +1,7 @@
 ---
 word: standalone
-meaning: 单独的
+meaning: độc lập
 correct: /ˈstændəˌləun/
 note:
-category: 形容词
+category: tính từ
 ---

@@ -1,7 +1,7 @@
 ---
 word: upwards arrow
-meaning: 向上箭头
+meaning: mũi tên lên
 correct: /null/
 note: "↑"
-category: 符号
+category: ký hiệu
 ---

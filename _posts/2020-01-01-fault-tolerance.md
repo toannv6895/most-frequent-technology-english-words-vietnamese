@@ -1,7 +1,7 @@
 ---
 word: fault tolerance
-meaning:
+meaning: khả năng chịu lỗi
 correct: /null/
 note:
-category: 词组
+category: cụm từ
 ---

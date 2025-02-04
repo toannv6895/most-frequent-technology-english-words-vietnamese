@@ -1,7 +1,7 @@
 ---
 word: efficiency
-meaning: 效率
+meaning: hiệu suất
 correct: /ɪˈfɪʃnsi/
 note:
-category: 名词
+category: danh từ
 ---

@@ -1,7 +1,7 @@
 ---
 word: disclaimer
-meaning: 免责声明
+meaning: tuyên bố từ chối trách nhiệm
 correct: /dɪˈskleɪ.mɚ/
 note:
-category: 名词
+category: danh từ
 ---

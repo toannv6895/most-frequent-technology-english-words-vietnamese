@@ -1,7 +1,7 @@
 ---
 word: subsidiary
-meaning: 子公司
+meaning: công ty con
 correct: /ˈsəbsɪdieri/
 note:
-category: 名词
+category: danh từ
 ---

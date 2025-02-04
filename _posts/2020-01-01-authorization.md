@@ -1,7 +1,7 @@
 ---
 word: authorization
-meaning: 授权，认可
+meaning: ủy quyền, cho phép
 correct: /ˌɔːθərəˈzeɪʃn/
 note:
-category: 名词
+category: danh từ
 ---

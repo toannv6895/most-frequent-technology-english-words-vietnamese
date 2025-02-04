@@ -1,7 +1,7 @@
 ---
 word: workaround
-meaning: 变通方案
+meaning: giải pháp tạm thời
 correct: /ˈwə:kə,raund/
-note: 特指方案具有迂回性质
-category: 名词
+note: đặc biệt chỉ giải pháp có tính chất tạm thời
+category: danh từ
 ---

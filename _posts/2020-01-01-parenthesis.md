@@ -1,7 +1,7 @@
 ---
 word: parenthesis
-meaning: 圆括号
+meaning: dấu ngoặc đơn
 correct: /pəˈrenθəsɪs/
 note: "( )"
-category: 符号
+category: ký hiệu
 ---

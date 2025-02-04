@@ -1,7 +1,7 @@
 ---
 word: distinction
-meaning: 区别、差别
+meaning: sự khác biệt, điểm khác biệt
 correct: /dɪˈstɪŋkʃn/
 note:
-category: 名词
+category: danh từ
 ---

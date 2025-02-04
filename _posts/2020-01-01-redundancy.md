@@ -1,7 +1,7 @@
 ---
 word: redundancy
-meaning: 冗余，多余
+meaning: dự phòng, dư thừa
 correct: /rɪˈdʌndənsi/
 note:
-category: 名词
+category: danh từ
 ---

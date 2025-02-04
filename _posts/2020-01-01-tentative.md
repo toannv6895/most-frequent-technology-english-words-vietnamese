@@ -1,7 +1,7 @@
 ---
 word: tentative
-meaning: 假设，试验
+meaning: thử nghiệm, tạm thời
 correct: /ˈtentətɪv/
 note:
-category: 名词
+category: tính từ
 ---

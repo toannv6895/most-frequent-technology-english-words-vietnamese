@@ -1,7 +1,7 @@
 ---
 word: complexity
-meaning: 复杂性
+meaning: độ phức tạp
 correct: /kəmˈpleksəti/
 note:
-category: 名词
+category: danh từ
 ---

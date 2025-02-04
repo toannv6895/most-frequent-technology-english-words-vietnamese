@@ -1,7 +1,7 @@
 ---
 word: remediation
-meaning: 补救，矫正
+meaning: khắc phục, sửa chữa
 correct: /rɪˌmiːdiˈeɪʃn/
 note:
-category: 名词
+category: danh từ
 ---

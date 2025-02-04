@@ -1,7 +1,7 @@
 ---
 word: durability
-meaning: 持久性，耐用性
+meaning: độ bền, tính bền vững
 correct: /ˌdʊrəˈbɪləti/
 note:
-category: 名词
+category: danh từ
 ---

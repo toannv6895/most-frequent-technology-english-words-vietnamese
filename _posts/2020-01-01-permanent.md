@@ -1,7 +1,7 @@
 ---
 word: permanent
-meaning: 永久的
+meaning: vĩnh viễn
 correct: /ˈpɜːrmənənt/
 note:
-category: 形容词
+category: tính từ
 ---

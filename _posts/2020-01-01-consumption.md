@@ -1,7 +1,7 @@
 ---
 word: consumption
-meaning: 消耗
+meaning: tiêu thụ
 correct: /kənˈsʌmpʃn/
 note:
-category: 名词
+category: danh từ
 ---

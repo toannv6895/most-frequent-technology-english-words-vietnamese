@@ -1,7 +1,7 @@
 ---
 word: heterogeneous
-meaning: 由很多种类组成的，混杂的，各种各样的
+meaning: không đồng nhất, đa dạng
 correct: /ˌhetərəˈdʒiːniəs/
 note:
-category: 形容词
+category: tính từ
 ---

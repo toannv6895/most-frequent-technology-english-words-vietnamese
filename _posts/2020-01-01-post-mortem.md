@@ -1,7 +1,7 @@
 ---
 word: post-mortem
-meaning: 尸体解剖，事后反思（或剖析）
+meaning: phân tích sau sự cố
 correct: /ˌpoʊst ˈmɔːrtəm/
 note:
-category: 名词
+category: danh từ
 ---

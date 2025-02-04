@@ -1,7 +1,7 @@
 ---
 word: greater than
-meaning: 大于号
+meaning: dấu lớn hơn
 correct: /null/
 note: ">"
-category: 符号
+category: ký hiệu
 ---

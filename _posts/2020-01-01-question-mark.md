@@ -1,7 +1,7 @@
 ---
 word: question mark
-meaning: 问号
+meaning: dấu hỏi
 correct: /ˈkwestʃən/
 note: "?"
-category: 符号
+category: ký hiệu
 ---

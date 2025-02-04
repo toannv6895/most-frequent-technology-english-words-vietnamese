@@ -1,7 +1,7 @@
 ---
 word: underlying
-meaning: 在下面的，潜在的，深层的
+meaning: nằm bên dưới, tiềm ẩn, sâu xa
 correct: /ˌʌndərˈlaɪɪŋ/
 note:
-category: 形容词
+category: tính từ
 ---

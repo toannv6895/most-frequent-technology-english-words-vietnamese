@@ -1,7 +1,7 @@
 ---
 word: degradation
-meaning: 降级
+meaning: xuống cấp
 correct: /ˌdeɡrəˈdeɪʃn/
 note:
-category: 名词
+category: danh từ
 ---

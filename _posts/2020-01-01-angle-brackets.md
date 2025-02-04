@@ -1,7 +1,7 @@
 ---
 word: angle brackets
-meaning: 尖括号
+meaning: dấu ngoặc nhọn
 correct: /null/
 note: "< >"
-category: 符号
+category: ký hiệu
 ---

@@ -1,7 +1,7 @@
 ---
 word: under the hood
-meaning: 引擎罩下，比喻内幕、原理
+meaning: bên dưới nắp capo, ám chỉ cơ chế bên trong
 correct: /null/
-note: Beneath the surface; in its internal workings
-category: 词组
+note: Bên dưới bề mặt; trong cơ chế hoạt động bên trong
+category: cụm từ
 ---

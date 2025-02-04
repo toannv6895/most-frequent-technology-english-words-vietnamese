@@ -1,7 +1,7 @@
 ---
 word: discretely
-meaning: 离散地，分离地
+meaning: rời rạc, tách biệt
 correct: /dɪˈskriːtli/
 note:
-category: 副词
+category: trạng từ
 ---

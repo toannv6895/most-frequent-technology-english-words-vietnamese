@@ -1,7 +1,7 @@
 ---
 word: hierarchical
-meaning: 分层的
+meaning: phân cấp
 correct: /ˌhaɪəˈrɑːrkɪkl/
 note:
-category: 形容词
+category: tính từ
 ---

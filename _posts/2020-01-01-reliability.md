@@ -1,7 +1,7 @@
 ---
 word: reliability
-meaning: 可靠性
+meaning: độ tin cậy
 correct: /rɪˌlaɪəˈbɪləti/
 note:
-category: 名词
+category: danh từ
 ---

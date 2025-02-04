@@ -1,7 +1,7 @@
 ---
 word: traceability
-meaning: 可追溯性
-correct: /ˌtresəˈbɪləti/
+meaning: khả năng truy vết
+correct: /ˌtreɪsəˈbɪləti/
 note:
-category: 名词
+category: danh từ
 ---

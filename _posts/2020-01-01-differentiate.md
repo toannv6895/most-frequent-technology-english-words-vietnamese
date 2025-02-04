@@ -1,7 +1,7 @@
 ---
 word: differentiate
-meaning: 区分
+meaning: phân biệt
 correct: /ˌdɪfəˈrenʃieɪt/
 note:
-category: 动词
+category: động từ
 ---

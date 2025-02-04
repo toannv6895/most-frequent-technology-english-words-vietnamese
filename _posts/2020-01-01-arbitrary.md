@@ -1,7 +1,7 @@
 ---
 word: arbitrary
-meaning: 任意的
+meaning: tùy ý
 correct: /ˈɑːrbɪtreri/
 note:
-category: 形容词
+category: tính từ
 ---

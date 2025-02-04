@@ -1,7 +1,7 @@
 ---
 word: deprecated
-meaning: 弃用的
+meaning: không còn dùng nữa
 correct: /ˈdɛprəˌketɪd/
 note:
-category: 形容词
+category: tính từ
 ---

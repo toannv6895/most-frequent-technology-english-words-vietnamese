@@ -1,7 +1,7 @@
 ---
 word: miscellaneous
-meaning: 混杂、各式各样的
+meaning: hỗn hợp, đa dạng
 correct: /ˌmɪsəˈleɪniəs/
 note:
-category: 形容词
+category: tính từ
 ---

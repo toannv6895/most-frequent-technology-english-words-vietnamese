@@ -1,7 +1,7 @@
 ---
 word: periodically
-meaning: 定期地，周期性地
+meaning: định kỳ, theo chu kỳ
 correct: /ˌpɪriˈɑːdɪkli/
 note:
-category: 副词
+category: trạng từ
 ---

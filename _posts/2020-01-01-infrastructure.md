@@ -1,7 +1,7 @@
 ---
 word: infrastructure
-meaning: 基础设施
+meaning: cơ sở hạ tầng
 correct: /ˈɪnfrəstrʌktʃər/
 note:
-category: 名词
+category: danh từ
 ---

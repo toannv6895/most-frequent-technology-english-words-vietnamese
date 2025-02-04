@@ -1,7 +1,7 @@
 ---
 word: streamline
-meaning: 使现代化、流线，使合理化
+meaning: hiện đại hóa, hợp lý hóa
 correct: /ˈstriːmlaɪn/
 note:
-category: 动词
+category: động từ
 ---

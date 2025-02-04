@@ -1,7 +1,7 @@
 ---
 word: throughput
-meaning: 吞吐量
+meaning: thông lượng
 correct: /ˈθruːpʊt/
 note:
-category: 名词
+category: danh từ
 ---

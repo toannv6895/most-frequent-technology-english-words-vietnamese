@@ -1,7 +1,7 @@
 ---
 word: initiative
-meaning: 方案、倡议
+meaning: sáng kiến, đề xuất
 correct: /ɪˈnɪʃətɪv/
 note:
-category: 名词
+category: danh từ
 ---

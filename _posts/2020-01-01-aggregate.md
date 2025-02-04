@@ -1,7 +1,7 @@
 ---
-word: aggregate
-meaning: 聚合，整合
-correct: /ˈæɡrɪɡət/
-note: 将多条信息聚合到一起，比如聚合类的新闻客户端
-category: 动词
+word: aggregate  
+meaning: tập hợp, tổng hợp  
+correct: /ˈæɡrɪɡət/  
+note: tập hợp nhiều thông tin lại với nhau, ví dụ như ứng dụng khách tin tức dạng tổng hợp  
+category: động từ  
 ---

@@ -1,7 +1,7 @@
 ---
 word: curly brackets
-meaning: 花括号
+meaning: dấu ngoặc nhọn
 correct: /null/
 note: "{ }"
-category: 符号
+category: ký hiệu
 ---

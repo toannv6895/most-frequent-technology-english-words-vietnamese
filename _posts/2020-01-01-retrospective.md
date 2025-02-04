@@ -1,7 +1,7 @@
 ---
 word: retrospective
-meaning: 追溯的、回顾的、复盘的
+meaning: hồi tưởng, nhìn lại
 correct: /ˌretrəˈspektɪv/
 note:
-category: 形容词
+category: tính từ
 ---

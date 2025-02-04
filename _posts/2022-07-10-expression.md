@@ -1,7 +1,7 @@
 ---
 word: expression
-meaning: 表达式
+meaning: biểu thức
 correct: /ɪkˈspreʃn/
 note:
-category: 名词
+category: danh từ
 ---

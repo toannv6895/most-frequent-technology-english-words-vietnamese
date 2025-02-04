@@ -1,7 +1,7 @@
 ---
 word: oversight
-meaning: 疏忽、失察
+meaning: sự sơ suất, sự bỏ sót
 correct: /ˈoʊvərsaɪt/
 note:
-category: 名词
+category: danh từ
 ---

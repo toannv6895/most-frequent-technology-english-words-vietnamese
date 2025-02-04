@@ -1,7 +1,7 @@
 ---
 word: impression
-meaning: 曝光
+meaning: lượt hiển thị
 correct: /ɪmˈpreʃn/
 note:
-category: 名词
+category: danh từ
 ---

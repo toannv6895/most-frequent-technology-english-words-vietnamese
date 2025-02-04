@@ -1,7 +1,7 @@
 ---
 word: reconcile
-meaning: 调停，调解，顺从
+meaning: hòa giải, điều hòa
 correct: /ˈrekənsaɪl/
 note:
-category: 动词
+category: động từ
 ---

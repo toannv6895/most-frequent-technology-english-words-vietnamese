@@ -1,7 +1,7 @@
 ---
 word: resilient
-meaning: 有弹力的、能恢复的
+meaning: có khả năng phục hồi
 correct: /rɪˈzɪliənt/
 note:
-category: 形容词
+category: tính từ
 ---

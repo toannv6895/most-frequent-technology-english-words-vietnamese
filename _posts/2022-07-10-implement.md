@@ -1,7 +1,7 @@
 ---
 word: implement
-meaning: 实现，执行
+meaning: thực hiện, triển khai
 correct: /ˈɪmplɪment/
-note: 一个类对一个接口的实现
-category: 动词
+note: một lớp thực hiện một giao diện
+category: động từ
 ---

@@ -1,7 +1,7 @@
 ---
 word: consultative
-meaning: 咨询的
+meaning: tham vấn
 correct: /kənˈsʌltətɪv/
 note:
-category: 形容词
+category: tính từ
 ---
