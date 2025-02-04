@@ -34,10 +34,10 @@ def doFy(word):
 os.makedirs(MEDIA_PATH, exist_ok=True)
 os.chdir(MEDIA_PATH)
 
-deckId = 2059400110
+deckId = 2059400111
 my_deck = genanki.Deck(
   deckId,
-'Programmer English Vocabulary Collection')
+'English for tech module 1')
 
 
 style = """
@@ -157,14 +157,6 @@ function playX(w) {
     return false;
 }
 
-//
-function go4eudic(w) {
-    if(!w){
-        w = getSelectedText();
-    }
-    if (!w){
-        w=document.querySelector('#w').innerText.trim()
-    }
     var href = "intent:peek#Intent;action=colordict.intent.action.SEARCH;category=android.intent.category.DEFAULT;type=text/plain;component=com.eusoft.eudic/com.eusoft.dict.activity.dict.LightpeekActivity;scheme=eudic;S.EXTRA_QUERY="+w+";end"
     location.href=href;
 }
@@ -230,19 +222,24 @@ for filename in tqdm(os.listdir(PATH)):
       print(f"Error reading file {filePath}: {str(e)}")
       continue
     
-    try:
-      fyWord = doFy(word)
-      fyWord = html.escape(fyWord)
-      fyWord = fyWord.replace('\n','<br/>')
-    except Exception as e:
-      print(f"Error getting translation for {word}: {str(e)}")
-      fyWord = ""
-      
+    # try:
+    #   fyWord = doFy(word)
+    #   fyWord = html.escape(fyWord)
+    #   fyWord = fyWord.replace('\n','<br/>')
+    # except Exception as e:
+    #   print(f"Error getting translation for {word}: {str(e)}")
+    #   fyWord = ""
+    fyWord = ""
     content = re.sub("(?m)^-+", '', content).strip()
     content = html.escape(content)
     content = content.replace('\n','<br/>')
-    
-    voicePath = '{}.mp3'.format(word)
+    # update word from content instead md file
+    newWord = re.search(r'word:\s*([^<\n]+)', content).group(1).strip()
+    print(f"New word: {newWord}")
+    if newWord:
+        word = newWord
+        print(f"Update word to: {word}")
+    voicePath = '{}.mp3'.format(word.replace(' ', '-'))
     # Check if MP3 file already exists
     if not os.path.exists(voicePath):
       try:
@@ -275,8 +272,8 @@ for filename in tqdm(os.listdir(PATH)):
     print(f"Error processing {filename}: {str(e)}")
     continue
 
-my_package.write_to_file('most-frequent-technology-english-words.apkg')
+my_package.write_to_file('english-for-tech.apkg')
 
-for filename in my_package.media_files:
-  if os.path.exists(filename):
-    os.remove(filename)
+# for filename in my_package.media_files:
+#   if os.path.exists(filename):
+#     os.remove(filename)
